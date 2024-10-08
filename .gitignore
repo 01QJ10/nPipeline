@@ -175,6 +175,8 @@ pyrightconfig.json
 
 # FormA Data file
 FormA706_20231010.xlsx
-*.tsv
+
+# Ignore all TSV files in the data directory
+data/*.tsv
 
 # End of https://www.toptal.com/developers/gitignore/api/python
