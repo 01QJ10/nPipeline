@@ -1,0 +1,365 @@
+Maternal weight measured at pregnancy week 26 GUSTO visit
+Maternal height measured at gestational week 26 GUSTO visit
+Maternal body mass index (BMI) at gestational week 26 GUSTO visit, calculated from weight and height at pw26 visit
+Energy in kcal, from 24hr recall food and supplement intake
+Energy in kcal, without outliers which are less than 800 kcal from 24hr recall food and supplement intake
+Energy in kcal, without outliers which are less than 500 kcal from 24hr recall food and supplement intake
+Protein in g, from 24hr recall food and supplement intake
+Carbohydrate in g, from 24hr recall food and supplement intake
+Total Fat in g, from 24hr recall food and supplement intake
+Carbohydrate in Percentage, from 24hr recall food and supplement intake
+Protein in Percentage, from 24hr recall food and supplement intake
+Fat in Percentage, from 24hr recall food and supplement intake
+Saturated Fat in g, from 24hr recall food and supplement intake
+Monounsaturated Fat in g, from 24hr recall food and supplement intake
+Polyunsaturated Fat in g, from 24hr recall food and supplement intake
+Cholesterol in mg, from 24hr recall food and supplement intake
+Vitamin A in mcg, from 24hr recall food and supplement intake
+Calcium in mg, from 24hr recall food and supplement intake
+Starch in g, from 24hr recall food and supplement intake
+Sugar in g, from 24hr recall food and supplement intake
+Dietary Fibre in g, from 24hr recall food and supplement intake
+B Carotene in mcg, from 24hr recall food and supplement intake
+Retinol in mcg, from 24hr recall food and supplement intake
+Iron in mg, from 24hr recall food and supplement intake
+Vitamin C in mg, from 24hr recall food and supplement intake
+Sodium in mg, from 24hr recall food and supplement intake
+Thiamin in mg, from 24hr recall food and supplement intake
+Riboflavin in mg, from 24hr recall food and supplement intake
+Potassium in mg, from 24hr recall food and supplement intake
+Phosphorus in mg, from 24hr recall food and supplement intake
+Zinc in mg, from 24hr recall food and supplement intake
+Selenium in mcg, from 24hr recall food and supplement intake
+Maternal Plasma Sodium concentration (mg/L) at pregnancy week 26
+Maternal Plasma Magnesium concentration (mg/L) at pregnancy week 26
+Maternal Magnesium deficiency - Sufficient (≥ 20.68 mg/L); Marginally deficient (≥ 18.25 mg/L or < 20.68 mg/L); Deficient (< 18.25 mg/L) at pregnancy week 26
+Maternal Plasma Phosphorus concentration (mg/L) at pregnancy week 26
+Maternal Plasma Potassium concentration (mg/L) at pregnancy week 26
+Maternal Plasma Calcium concentration (mg/L) at pregnancy week 26
+Maternal Plasma Iron concentration (ug/L) at pregnancy week 26
+Maternal Iron deficiency - Sufficient (≥ 558.8 ug/L); Deficient (< 558.6 ug/L) at pregnancy week 26
+Maternal Plasma Ferritin concentration (ng/mL) at pregnancy week 26
+Maternal Ferritin deficiency - Sufficient (≥ 15 ng/mL); Deficient (< 15ng/mL) at pregnancy week 26
+Maternal Plasma Copper concentration (µg/L) at pregnancy week 26
+Maternal Copper deficiency - Sufficient (≥ 900 ug/L); Deficient (< 900 ug/L) at pregnancy week 26
+Maternal Plasma Zinc concentration (µg/L) at pregnancy week 26
+Maternal Zinc deficiency - Sufficient (≥700 ug/L); Deficient (< 700 ug/L) at pregnancy week 26
+Maternal Plasma Selenium concentration (ug/L) at pregnancy week 26
+Maternal Plasma Folate (ng/ml) at pregnancy week 26
+Maternal Folate deficiency - Sufficient (> 6 ng/ml); Deficient (< 6 ng/mL) at pregnancy week 26
+Maternal Transferrin Receptor Levels - Transferrin Receptor Levels (nM/L) at pregnancy week 26
+Maternal Plasma Fatty Acids - Plasma_Myristic_conc_mcg_ml at pregnancy week 26
+Maternal Plasma Fatty Acids - Plasma_Myristic_percent at pregnancy week 26
+Maternal Plasma Fatty Acids - Plasma_Palmitic_conc_mcg_ml at pregnancy week 26
+Maternal Plasma Fatty Acids - Plasma_Palmitic_percent at pregnancy week 26
+Maternal Plasma Fatty Acids - Plasma_Palmitoleic_conc_mcg_ml at pregnancy week 26
+Maternal Plasma Fatty Acids - Plasma_Palmitoleic_percent at pregnancy week 26
+Maternal Plasma Fatty Acids - Plasma_Stearic_conc_mcg_ml at pregnancy week 26
+Maternal Plasma Fatty Acids - Plasma_Stearic_percent at pregnancy week 26
+Maternal Plasma Fatty Acids - Plasma_Oleic_conc_mcg_ml at pregnancy week 26
+Maternal Plasma Fatty Acids - Plasma_Oleic_percent at pregnancy week 26
+Maternal Plasma Fatty Acids - Plasma_cis_Vaccenic_conc_mcg_ml at pregnancy week 26
+Maternal Plasma Fatty Acids - Plasma_cis_Vaccenic_percent at pregnancy week 26
+Maternal Plasma Fatty Acids - Plasma_Linoleic_conc_mcg_ml at pregnancy week 26
+Maternal Plasma Fatty Acids - Plasma_Linoleic_percent at pregnancy week 26
+Maternal Plasma Fatty Acids - Plasma_Linolenic_n6_conc_mcg_ml at pregnancy week 26
+Maternal Plasma Fatty Acids - Plasma_Linolenic_n6_percent at pregnancy week 26
+Maternal Plasma Fatty Acids - Plasma_Linolenic_n3_conc_mcg_ml at pregnancy week 26
+Maternal Plasma Fatty Acids - Plasma_Linolenic_n3_percent at pregnancy week 26
+Maternal Plasma Fatty Acids - Plasma_20_0_conc_mcg_ml at pregnancy week 26
+Maternal Plasma Fatty Acids - Plasma_20_0_percent at pregnancy week 26
+Maternal Plasma Fatty Acids - Plasma_20_1_n9_conc_mcg_ml at pregnancy week 26
+Maternal Plasma Fatty Acids - Plasma_20_1_n9_percent at pregnancy week 26
+Maternal Plasma Fatty Acids - Plasma_20_2_n6_conc_mcg_ml at pregnancy week 26
+Maternal Plasma Fatty Acids - Plasma_20_2_n6_percent at pregnancy week 26
+Maternal Plasma Fatty Acids - Plasma_20_3_n6_conc_mcg_ml at pregnancy week 26
+Maternal Plasma Fatty Acids - Plasma_20_3_n6_percent at pregnancy week 26
+Maternal Plasma Fatty Acids - Plasma_Arachidonic_n6_conc_mcg_ml at pregnancy week 26
+Maternal Plasma Fatty Acids - Plasma_Arachidonic_n6_percent at pregnancy week 26
+Maternal Plasma Fatty Acids - Plasma_22_0_conc_mcg_ml at pregnancy week 26
+Maternal Plasma Fatty Acids - Plasma_22_0_percent at pregnancy week 26
+Maternal Plasma Fatty Acids - Plasma_20_4_n3_conc_mcg_ml at pregnancy week 26
+Maternal Plasma Fatty Acids - Plasma_20_4_n3_percent at pregnancy week 26
+Maternal Plasma Fatty Acids - Plasma_EPA_conc_mcg_ml at pregnancy week 26
+Maternal Plasma Fatty Acids - Plasma_EPA_percent at pregnancy week 26
+Maternal Plasma Fatty Acids - Plasma_22_4_n6_conc_mcg_ml at pregnancy week 26
+Maternal Plasma Fatty Acids - Plasma_22_4_n6_percent at pregnancy week 26
+Maternal Plasma Fatty Acids - Plasma_DPA_conc_mcg_ml at pregnancy week 26
+Maternal Plasma Fatty Acids - Plasma_DPA_percent at pregnancy week 26
+Maternal Plasma Fatty Acids - Plasma_DHA_conc_mcg_ml at pregnancy week 26
+Maternal Plasma Fatty Acids - Plasma_DHA_percent at pregnancy week 26
+Maternal Plasma Fatty Acids - Plasma_Total_FA_conc_mcg_ml at pregnancy week 26
+Maternal Plasma Fatty Acids - Plasma_Total FA_percent at pregnancy week 26
+Maternal Plasma Fatty Acids - Plasma_Total_n3_conc_mcg_ml at pregnancy week 26
+Maternal Plasma Fatty Acids - Plasma_Total_n3_percent at pregnancy week 26
+Maternal Plasma Fatty Acids - Plasma_Total_n6_conc_mcg_ml at pregnancy week 26
+Maternal Plasma Fatty Acids - Plasma_Total_n6_percent at pregnancy week 26
+Maternal Plasma Fatty Acids - Plasma_SFA_conc_mcg_ml at pregnancy week 26
+Maternal Plasma Fatty Acids - Plasma_Total_SFA_percent at pregnancy week 26
+Maternal Plasma Fatty Acids - Plasma_MUFA_conc_mcg_ml at pregnancy week 26
+Maternal Plasma Fatty Acids - Plasma_Total_MUFA_percent at pregnancy week 26
+Maternal Plasma Fatty Acids - Plasma_PUFA_conc at pregnancy week 26
+Maternal Plasma Fatty Acids - Plasma_Total_PUFA_percent at pregnancy week 26
+Maternal Plasma Fatty Acids - Ratio_Plasma_n3_to_n6 at pregnancy week 26
+Maternal Plasma Fatty Acids - Ratio_Plasma_n6_to_n3 at pregnancy week 26
+Maternal Plasma Fatty Acids - Ratio_Plasma_AA_to_DHA at pregnancy week 26
+Maternal Plasma Fatty Acids - Ratio_Plasma_AA_to_EPA at pregnancy week 26
+Maternal Plasma Fatty Acids - Ratio_Plasma_DHA_to_DPA at pregnancy week 26
+Maternal Plasma fatty acids-Ratio_Plasma_AA_to_DHAEPA at pregnancy week 26
+Maternal Plasma Vitamin B2 - Flavin Mononucleotide (nmol/L)- Bevital panel at pregnancy week 26
+Maternal Plasma Vitamin B2 - Neopterin (nmol/L) - Bevital panel at pregnancy week 26
+Maternal Plasma Vitamin B2 - Riboflavin (nmol/L) - Bevital panel at pregnancy week 26
+Maternal Plasma Vitamin B3 - N1-methylnicotinamide (nmol/L) - Bevital panel at pregnancy week 26
+Maternal Plasma Vitamin B3 - Nicotinamide (nmol/L) - Bevital panel at pregnancy week 26
+Maternal Plasma Vitamin B3 - Nicotinic acid (nmol/L) - Bevital panel at pregnancy week 26
+Maternal Plasma Vitamin B3 - Trigonelline (µmol/L) - Bevital panel at pregnancy week 26
+Maternal Plasma Vitamin B6 - Pyridoxal (nmol/L) - Bevital panel at pregnancy week 26
+Maternal Plasma Vitamin B6 - Pyridoxal 5-phosphate (nmol/L) - Bevital panel at pregnancy week 26
+Maternal Plasma vitamin B6 - PLP (nmoles/L) at pregnancy week 26
+Maternal Plasma vitamin B6 - PLP categories - Sufficient (≥ 20 nmol/L); Deficient (< 20 nmol/L) at pregnancy week 26
+Maternal Plasma Vitamin B6 - Pyridoxic acid (nmol/L) - Bevital panel at pregnancy week 26
+Maternal Plasma Vitamin B6 - Pyridoxic acid (nmol/L) at pregnancy week 26. Low detection values indicated by 8888
+Maternal Plasma Vitamin B6 - Pyridoxine (nmol/L) - Bevital panel at pregnancy week 26
+Maternal Plasma Vitamin B12 - Plasma Vitamin B12 (pg/ml) at pregnancy week 26
+Maternal Three categories by clinical cut-offs - Sufficient (≥ 300 pg/ml); Marginally deficient (200-299 pg/ml); Deficient (< 200 pg/ml) at pregnancy week 26
+Maternal Two categories - Sufficient (≥ 300 pg/ml); Deficient (< 300 pg/ml) at pregnancy week 26
+Maternal Plasma Vitamin D3 - Plasma Vitamin D (nmol/L) at pregnancy week 26
+Maternal Plasma Vitamin D3 - 3 categories (nmol/L) - Sufficient (>= 50 nmol/L); Marginally Deficient (30-49 nmol/L); Deficient (< 30 nmol/L)  (Reference:IOM) at pregnancy week 26
+Maternal Plasma Vitamin D3 - 3 categories (nmol/L) - Sufficient (> 75 nmol/L); Insufficient (50-75 nmol/L); Deficient (< 50 nmol/L) (Reference: Endocrine Society ) at pregnancy week 26
+Maternal Amino Acid & Intermediates: Arginine & Metabolites  - Arginine (µmol/L) -Bevital panel at pregnancy week 26
+Maternal Amino Acid & Intermediates: Arginine & Metabolites  - Asymmetric dimethylarginine (µmol/L) -Bevital panel at pregnancy week 26
+Maternal Amino Acid & Intermediates: Arginine & Metabolites  - Creatine (µmol/L) -Bevital panel at pregnancy week 26
+Maternal Amino Acid & Intermediates: Arginine & Metabolites  - Creatinine (µmol/L) -Bevital panel at pregnancy week 26
+Maternal Amino Acid & Intermediates: Arginine & Metabolites  - Homoarginine (µmol/L) -Bevital panel at pregnancy week 26
+Maternal Amino Acid & Intermediates: Arginine & Metabolites  - Symmetric dimethylarginine (µmol/L) -Bevital panel at pregnancy week 26
+Maternal Amino Acid & Intermediates: Arginine & Metabolites  - Trimethyllysine (µmol/L) -Bevital panel at pregnancy week 26
+Maternal Amino Acid & Intermediates: Cysteine & Metabolites  - Cystathionine (µmol/L) -Bevital panel at pregnancy week 26
+Maternal Amino Acid & Intermediates: Cysteine & Metabolites  - Total Homocysteine (µmol/L) - Bevital panel at pregnancy week 26
+Maternal Amino Acid & Intermediates: Cysteine & Metabolites  - Total cysteine (µmol/L) - Bevital panel at pregnancy week 26
+Maternal Amino Acid & Intermediates: Histidine & Metabolites  - 1-Methylhistidine (1-MH) (µmol/L) - Bevital panel at pregnancy week 26
+Maternal Amino Acid & Intermediates: Histidine & Metabolites  - 3-Methylhistidine (3-MH) (µmol/L) - Bevital panel at pregnancy week 26
+Maternal Amino Acid & Intermediates: Histidine & Metabolites  - Histidine (µmol/L) - Bevital panel at pregnancy week 26
+Maternal Amino Acid & Intermediates: Methionine & Metabolites  - Methionine (µmol/L) - Bevital panel at pregnancy week 26
+Maternal Amino Acid & Intermediates: Methionine & Metabolites  - Methionine sulfoxide (µmol/L) - Bevital panel at pregnancy week 26
+Maternal Amino Acid & Intermediates: Tryptophan & Metabolites  - 3-Hydroxyanthranilic acid (nmol/L) - Bevital panel at pregnancy week 26
+Maternal Amino Acid & Intermediates: Tryptophan & Metabolites  - 3-Hydroxykynurenine (nmol/L) - Bevital panel at pregnancy week 26
+Maternal Amino Acid & Intermediates: Tryptophan & Metabolites  - Anthranilic acid (nmol/L) - Bevital panel at pregnancy week 26
+Maternal Amino Acid & Intermediates: Tryptophan & Metabolites  - Kynurenic acid (nmol/L) - Bevital panel at pregnancy week 26
+Maternal Amino Acid & Intermediates: Tryptophan & Metabolites  - Kynurenine (µmol/L) - Bevital panel at pregnancy week 26
+Maternal Amino Acid & Intermediates: Tryptophan & Metabolites  - Quinolinic acid (nmol/L) - Bevital panel at pregnancy week 26
+Maternal Amino Acid & Intermediates: Tryptophan & Metabolites  - Tryptophan (µmol/L) - Bevital panel at pregnancy week 26
+Maternal Amino Acid & Intermediates: Tryptophan & Metabolites  - Xanthurenic acid (nmol/L) - Bevital panel at pregnancy week 26
+Maternal Choline Metabolism: Choline & Metabolites  - Betaine (µmol/L) - Bevital panel at pregnancy week 26
+Maternal Choline Metabolism: Choline & Metabolites  - Choline (µmol/L) - Bevital panel at pregnancy week 26
+Maternal Choline Metabolism: Choline & Metabolites  - Dimethylglycine (µmol/L) - Bevital panel at pregnancy week 26
+Maternal Choline Metabolism: Choline & Metabolites  - Trimethylamineoxide (µmol/L) - Bevital panel at pregnancy week 26
+Maternal Cotinine: Cotinine & Metabolite  - Cotinine (nmol/L) - Bevital panel at pregnancy week 26
+Maternal Cotinine: Cotinine & Metabolite  - Trans-3-Hydroxy Cotinine (nmol/L) - Bevital panel at pregnancy week 26
+Hemolysis
+Homocysteine (Reported Values: 6-20 µmol/L)
+Choline (Reported Values: 5-15 µmol/L)
+Betaine (Reported Values: 20-60 µmol/L)
+Dimethylglycine (Reported Values: 1.5–5 µmol/L)
+Creatinine (Reported Values: 50-100 µmol/L)
+Methionine (Reported Values: 18-50 µmol/L)
+Methioninesulfate (Reported Values: 0.5-5 µmol/L)
+Arginine (Reported Values: 40-100 µmol/L)
+ADMA (Reported Values: 0.4-0.8 µmol/L)
+SDMA (Reported Values: 0.4-0.9 µmol/L)
+Homoarginine (Reported Values: 1-6 µmol/L)
+Trimethyllysine (Reported Values: 0.3-2 µmol/L)
+Cysteine (Reported Values: 150-400 µmol/L)
+Histidine (Reported Values: 50-100 µmol/L)
+Trimethylamine N oxide (Reported Values: 0.5-60 µmol/L)
+Creatine (Reported Values: 10-100 µmol/L)
+m1Histidine (Reported Values: 0.5-15 µmol/L)
+m3Histidine (Reported Values: 2.7-10 µmol/L)
+Pyridoxal phosphate (Reported Values: 15–150 nmol//L)
+Pyridoxal (Reported Values: 5–150 nmol/L)
+Pyridoxic acid (Reported Values: 10–200 nmol/L)
+Pyridoxine (Reported Values: NA)
+Thiamine (Reported Values: 2–50 nmol/L)
+Thiamine monophosphate (Reported Values: 2–15 nmol/L)
+Riboflavin (Reported Values: 5–100 nmol/L)
+Flavin mononucleotide (Reported Values: 3–30 nmol/L)
+Neopterin (Reported Values: 5-50 nmol/L)
+Cotinine (Reported Values: <3000 nmol/L)
+Trans hydroxycotinine (Reported Values: <1500 nmol/L)
+Tryptophan (Reported Values: 40-90 µmol/L)
+Kynenurine (Reported Values: 1.0-3.0 µmol/L)
+3Hydroxykynurenine (Reported Values: 25-80 nmol/L)
+Kynurenic acid (Reported Values: 20-100 nmol/L)
+Xanthurenic acid (Reported Values: 2-35 nmol/L)
+Anthralinic acid (Reported Values: 7-30 nmol/L)
+Hydroxyanthralinic acid (Reported Values: 10-80 nmol/L)
+Picolinic acid (Reported Values: 20-100 nmol/L)
+Quinolinic acid (Reported Values: 150-700 nmol/L)
+Nicotinic acid (Reported Values: <20 nmol/L)
+Nicotinamide (Reported Values: 100-600 nmol/L)
+N1 methylnicotinamide (Reported Values: 20-250 nmol/L)
+Cystathionine (Reported Values: <0.4 µmol/L)
+Trigonelline (Reported Values: <25 µmol/L)
+Folate (Reported Values: >7.5 nmol/L)
+Vitamin B12 (Reported Values: >150 pmol/L)
+Vitamin A (Reported Values: 1.46-2.84 µmol/L)
+Vitamin D2 (Reported Values: 0-30 nmol/L)
+Vitamin D3 (Reported Values: 32.4-98.5 nmol/L)
+Alpha tocopherol (Reported Values: 18.9-38.8.0 µmol/L)
+Gamma tocopherol (Reported Values: 2-11 µmol/L)
+Methylmalonic acid (Reported Values: <0.26 µmol/L)
+Total homocysteine (Reported Values: <15 µmol/L)
+Total cysteine (Reported Values: 150-350 µmol/L)
+Choline (Reported Values: 5-12 µmol/L)
+Betaine (Reported Values: 16-51 µmol/L)
+Dimethylglycine (Reported Values: 1.5–4 µmol/L)
+Creatinine (Reported Values: <90 µmol/L)
+Methionine (Reported Values: 18-33 µmol/L)
+Methionine sulfoxide (Reported Values: not provided by bevital)
+Arginine (Reported Values: 10-80 µmol/L)
+Asymmetric dimethylarginine (Reported Values: 0.4-1.0 µmol/L)
+Symmetric dimethylarginine (Reported Values: 0.3-0.7 µmol/L)
+Homoarginine (Reported Values: 2-6 µmol/L)
+Trimethyllysine (Reported Values: not provided by bevital)
+Histidine (Reported Values: not provided by bevital)
+Trimethylamine N-oxide (Reported Values: not provided by bevital)
+Creatine (Reported Values: not provided by bevital)
+1-Methylhistidine (Reported Values: 2.7-7 µmol/L)
+3-Methylhistidine (Reported Values: 0.7-14 µmol/L)
+Pyridoxal 5'-phosphate (Reported Values: 17–102 nmol//L)
+Pyridoxal (Reported Values: 6–28 nmol/L)
+4-Pyridoxic acid (Reported Values: 11–88 nmol/L)
+Pyridoxine (Reported Values: not provided by bevital)
+Thiamine (Reported Values: 7–16 nmol/L)
+Thiamine monophosphate (Reported Values: 1–3 nmol/L)
+Riboflavin (Reported Values: 5–38 nmol/L)
+Flavin mononucleotide (Reported Values: 3–13 nmol/L)
+Neopterin (Reported Values: <20 nmol/L)
+Cotinine (Reported Values: not provided by bevital)
+Trans-3'-hydroxycotinine (Reported Values: not provided by bevital)
+Tryptophan (Reported Values: 43-89 µmol/L)
+Kynurenine (Reported Values: 1.0-2.9 µmol/L)
+3-Hydroxykynurenine (Reported Values: 10-65 nmol/L)
+Xanthurenic acid (Reported Values: 5-35 nmol/L)
+Anthranilic acid (Reported Values: 7-30 nmol/L)
+3-Hydroxyanthranilic acid (Reported Values: 7-50 nmol/L)
+Picolinic acid (Reported Values: 90-370nmol/L)
+Quinolinic acid (Reported Values: 134-384 nmol/L)
+Nicotinamide (Reported Values: 92-388 nmol/L)
+N1-methylnicotinamide (Reported Values: 27-221 nmol/L)
+Trigonelline (Reported Values: not provided by bevital)
+Folate Comments
+Cobalamin (vitamin B12) (Reported Values: >150 pmol/L)
+Vitamin B12 Comments
+All-trans retinol (Reported Values: 1.46-2.84 µmol/L)
+25-hydroxy vitamin D2 (Reported Values: 0-30 nmol/L)
+25-hydroxy vitamin D3 (Reported Values: 32.4-98.5 nmol/L)
+alpha-tocopherol (Reported Values: 18.9-38.8.0 µmol/L)
+gamma-tocopherol (Reported Values: 2-11 µmol/L)
+Total cholesterol [Assay Method: Colorimetric (Beckman AU5800)]
+Triglycerides [Assay Method: Colorimetric (Beckman AU5800)]
+High density lipoprotein cholesterol [Assay Method: Enzymatic (Beckman AU5800)]
+Low density lipoprotein cholesterol [Calculated using Friedwald equation: LDL = CHOL - HDL - TG/2.2. Note: Invalid (indicated by 8888) if triglycerides is more than or equals to 4.5]
+Derived Variable: Ratio of Total Cholesterol:High-density Lipoprotein Cholesterol
+Derived Variable: Ratio of Triglycerides:High-density Lipoprotein Cholesterol
+Insulin [Assay Method: Sandwich immunoassay (Beckman DxI 800)]
+Creatinine [Assay Method: Endpoint creatininase (Beckman AU5800) The creatinine assay calibration is traceable to an isotope dilution mass spectrometry (IDMS) reference method using the National Institutes of Standards and Technology (NIST) Standard Reference Material 967.]
+High sensitivity C-reactive protein [Assay Method: Colorimetric (Beckman AU5800)]. Low values (<0.1) indicated by 8888
+Alanine transaminase [Assay Method: Enzymatic (Beckman AU5800) without addition of pyridoxal-5-phosphate co-factor]. Low values (<6) indicated by 8888
+Aspartate transaminase [Assay Method: Enzymatic (Beckman AU5800) without addition of pyridoxal-5-phosphate co-factor]
+Gamma glutamyl transferase [Assay Method: Colorimetric (Beckman AU5800)]. Low values (<10) indicated by 8888
+Uric acid [Assay Method: Colorimetric (Beckman AU5800)]. Low values (<89) indicated by 8888
+Lipemia
+Icterus
+Total cholesterol (Reference Range: < 5.2 mmol/L desirable; 5.2 - 6.1 mmol/L borderline high; ≥ 6.2 mmol/L high; Assay Method: Colorimetric (Beckman AU5800))
+Triglycerides (Reference Range: < 1.7 mmol/L optimal; 1.7 - 2.2 mmol/L desirable; 2.3 - 4.4 mmol/L high; ≥ 4.5 mmol/L very high; Assay Method: Colorimetric (Beckman AU5800))
+High density lipoprotein cholesterol (Reference Range: < 1.0 mmol/L low; 1.0 - 1.5 mmol/L desirable; ≥ 1.6 mmol/L optimal; Assay Method: Enzymatic (Beckman AU5800))
+Low density lipoprotein cholesterol=CHOL-HDL-TG/2.2 (Reference Range: < 2.5 mmol/L optimal; 2.6 - 3.3 mmol/L desirable; 3.4 - 4.0 mmol/L borderline high; 4.1 - 4.8 mmol/L high; ≥ 4.9 mmol/L; Assay Method: Calculated LDL-C = CHOL - HDL-C - TG/2.2)
+Derived Variable: Ratio of Total Cholesterol:High-density Lipoprotein Cholesterol (Reference Range: > 4.5 high risk for CHD)
+Insulin (Reference Range: 0-25 mU/L; Assay Method: Sandwich immunoassay (Beckman DxI 800))
+Creatinine (Reference Range: 50 – 90 umol/L; Assay Method: Endpoint creatininase (Beckman AU5800); Remarks: The creatinine assay calibration is traceable to an isotope dilution mass spectrometry (IDMS) reference method using the National Institutes of Standards and Technology (NIST) Standard Reference Material 967.)
+High sensitivity C-reactive protein (Reference Range: < 1 mg/L low risk; 1.0 - 3.0 mg/L average risk; > 3.0 mg/L high risk; Assay Method: Colorimetric (Beckman AU5800)). Low values (<0.1) indicated by 8888
+Alanine transaminase (Reference Range: 10 – 70 U/L; Assay Method: Enzymatic (Beckman AU5800); Remarks: without addition of pyridoxal-5-phosphate co-factor). Low values (<6) indicated by 8888
+Aspartate transaminase (Reference Range: 10 – 50 U/L; Assay Method: Enzymatic (Beckman AU5800); Remarks: without addition of pyridoxal-5-phosphate co-factor)
+Gamma glutamyl transferase (Reference Range: 10 – 80 U/L; Assay Method: Colorimetric (Beckman AU5800)). Low values (<10) indicated by 8888
+Uric acid (Reference Range: 150 – 370 umol/L; Assay Method: Colorimetric (Beckman AU5800))
+Hemolysis (Reference Range: 50)
+Lipemia (Reference Range: 40)
+Icterus (Reference Range: 2)
+2-Hour Insulin. High values (>300) indicated by 8888
+Notes about data
+Choline (Reported Values: 5-15)
+Trimethylamineoxide (Reported Values: 0.5-60)
+Betaine (Reported Values: 20-60)
+Dimethylglycine (Reported Values: 1.5-5)
+Total homocysteine (Reported Values: 6-20)
+Creatine (Reported Values: 10-100)
+Creatinine (Reported Values: 50-100)
+Methionine (Reported Values: 18-50)
+Methionine sulfoxide (Reported Values: 0.5-5)
+Total cysteine (Reported Values: 150-400)
+Histidine (Reported Values: 50-100)
+3-Methylhistidine (3-MH) (Reported Values: 2.7-10)
+1-Methylhistidine (1-MH); <Limit Of Detection indicated by 8881 (Reported Values: 0.5-15)
+Citrulline (Reported Values: 10-60)
+Ornithine (Reported Values: 30-90)
+Arginine (Reported Values: 40-100)
+Asymmetric dimethylarginine (Reported Values: 0.4-0.8)
+Symmetric dimethylarginine (Reported Values: 0.4-0.9)
+Homoarginine (Reported Values: 1-6)
+Trimethyllysine (Reported Values: 0.3-2)
+Butyrobetaine; <Limit Of Detection indicated by 8881 (Reported Values: 0.4-2)
+Carnitine (Reported Values: 20-80)
+Acetylcarnitine (Reported Values: 3-15)
+Propionylcarnitine (Reported Values: 0.2-1.5)
+Butyrylcarnitine (Reported Values: 0.1-0.5)
+Isovalerylcarnitine; <Limit Of Detection indicated by 8881 (Reported Values: 0.06-0.2)
+Glutarylcarnitine; <Limit Of Detection indicated by 8881 (Reported Values: <0.05)
+Hexanoylcarnitine (Reported Values: 0.01-1.2)
+Octanoylcarnitine (Reported Values: 0.06-0.3)
+Decanoylcarnitine (Reported Values: 0.2-1)
+Dodecanoylcarnitine (Reported Values: <0.4)
+Pyridoxal 5'-phosphate (Reported Values: 15-150)
+Pyridoxal (Reported Values: 5-150)
+4-Pyridoxic acid (Reported Values: 10-200)
+Thiamine (Reported Values: 2-50)
+Thiamine monophosphate (Reported Values: 2-15)
+Riboflavin (Reported Values: 5-100)
+Flavin mononucleotide (Reported Values: 3-30)
+Cystathionine (Reported Values: <0.4)
+Neopterin (Reported Values: 5-50)
+Tryptophan (Reported Values: 40-90)
+Kynurenine (Reported Values: 1.0-3.0)
+Kynurenic acid (Reported Values: 20-100)
+Quinaldic acid (Reported Values: 0.2-100)
+Anthranilic acid (Reported Values: 7-30)
+3-Hydroxykynurenine (Reported Values: 25-80)
+Xanthurenic acid (Reported Values: 2-35)
+3-Hydroxyanthranilic acid (Reported Values: 10-80)
+Picolinic acid (Reported Values: 20-100)
+Quinolinic acid (Reported Values: 150-700)
+Nicotinic acid (Reported Values: <20)
+Nicotinamide (Reported Values: 100-600)
+N1-methylnicotinamide (Reported Values: 20-250)
+Cotinine (Reported Values: <3000)
+Trans-3'-hydroxycotinine (Reported Values: <1500)
+Trigonelline (Reported Values: <25)
+Imidazole propionate; <Limit Of Detection indicated by 8881 (Reported Values: 3-500)
+3-Indoxyl sulfate (Reported Values: 0.9-30)
+Indole-3-acetamide; <Limit Of Detection indicated by 8881 (Reported Values: 0-10)
+Indole-3-acetate (Reported Values: 0.3-23)
+Indole-3-aldehyde; <Limit Of Detection indicated by 8881 (Reported Values: 0.01-0.20)
+Indole-3-lactate (Reported Values: 0.08-5)
+Indole-3-propionate (Reported Values: 0.5-12)
+Folate (s-Folate) (Reported Values: >7.5)
+Cobalamin (vitamin B12, s-B12) (Reported Values: >150)
+All-trans retinol (Vit. A) (Reported Values: 1.46-2.84)
+25-hydroxyvitamin-D2 (25OH-D2) (Reported Values: 0-30)
+25-hydroxyvitamin-D3 (25OH-D3) (Reported Values: 32.4-98.5)
+Alfa-tocopherol (Vit. E) (Reported Values: 18.9-38.8.0)
+Gamma-tocopherol (Vit. E) (Reported Values: 2-11)
+Phylloquinone (Vit. K1); <Limit Of Detection indicated by 8881 (Reported Values: 0.1-8.7)
+Myristoylcarnitine (Reported Values: 0.01-0.1)
+Palmitoylcarnitine (Reported Values: 0.05-0.25)
+Stearoylcarnitine (Reported Values: 0.03-0.1)
+Oleoylcarnitine (Reported Values: 0.04-0.2)
+Linoleylcarnitine (Reported Values: 0.01-0.1)
