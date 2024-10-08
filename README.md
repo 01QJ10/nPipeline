@@ -56,6 +56,11 @@ To run the scripts in the `nPipeline` repository, you'll need to have Conda inst
    conda install -r requirements.txt
    ```
 
+### Getting the Data Ready
+
+For the `FormA.xlsx`, kindly contact the author to request for access. For the 
+`gwas_catalog.tsv` data, you could get them from the [GWAS Website](https://www.ebi.ac.uk/gwas/docs/file-downloads). Arrange them as shown in the directory structure, and you are
+ready to go! :wink:
 ### Running the Scripts
 
 Once the environment is set up and all dependencies are installed, you can run the scripts as follows:
@@ -67,6 +72,11 @@ Once the environment is set up and all dependencies are installed, you can run t
   ```
 
 - **Validate Associations with GPT**:
+
+Before running the `gpt.py` file, make sure that you also include a `.env` file
+in your root directory with `OPENAI_API_KEY="YOUR_API_KEY"`. Note that using the 
+OpenAI API is not free, for more please refer to the [official website](https://platform.openai.com/docs/overview). The `.env` is included in the `.gitignore`, so feel
+free to leave your API key there :smiley:.
 
   ```bash
   python code/gpt.py

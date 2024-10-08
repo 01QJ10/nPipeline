@@ -179,4 +179,6 @@ FormA706_20231010.xlsx
 # Ignore all TSV files in the data directory
 data/*.tsv
 
+# Ignore .DS_Store files
+.DS_Store
 # End of https://www.toptal.com/developers/gitignore/api/python
