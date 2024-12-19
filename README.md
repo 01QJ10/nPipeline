@@ -3,7 +3,14 @@
 
 ## Overview
 
-`nPipeline` is designed to facilitate the analysis of nutrient associations using GWAS data and current patient datasets. It includes scripts for mapping the closest associations (`map.py`) and validating these associations via the ChatGPT API (`gpt.py`).
+`nPipeline` is designed to facilitate the analysis of nutrient associations using GWAS data and patient datasets. It includes several scripts that work together to retrieve and validate GWAS associations against clinical datasets, as well as leverage external tools and APIs:
+
+- **`map.py`** uses embedding-based similarity to align GWAS traits with patient data descriptions, generating top-ranked association lists.
+- **`gpt.py`** refines these ranked associations by leveraging GPT-based guidance to select the top 5 most relevant GWAS associations per patient description.
+
+- **`test.py`**: Uses the FTP URL provided by results geenrated from `gpt.py` to recursively download and store GWAS summary statistics files. This script ensures that all required data files (e.g., `.gz`, `.txt`, `.pdf`, `.zip`) are retrieved for downstream analyses and validation steps.
+
+By integrating these scripts, `nPipeline` streamlines the process of mapping associations, validating them through AI-assisted insights, and ensuring that all necessary GWAS data are locally available for further analysis.
 
 ## Repository Structure
 
