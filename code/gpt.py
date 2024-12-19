@@ -6,27 +6,7 @@ import pandas as pd
 
 # os.chdir("./code")
 load_dotenv("./.env")
-
 client = OpenAI()
-
-response = client.chat.completions.create(
-  model="gpt-4-turbo",
-  response_format={ "type": "json_object" },
-  messages=[
-    {"role": "system", "content": "You are a helpful assistant."},
-    {"role": "user", "content": "Give me 10 ideas for a YouTube channel about Python, please provide the response in JSON. Provide a title and a description for every video, called 'title' and 'description' and store them in dictionary videos"},
-  ]
-)
-
-output = response.choices[0].message.content
-print(output)
-# %%
-output_json = json.loads(output)
-videos = output_json['videos']
-
-df = pd.DataFrame(videos)
-df.to_excel("videos.xlsx")
-
 # %%
 # Load the CSV file containing initial data
 df = pd.read_csv("../results/formA_associations_50_matches.csv")
@@ -47,7 +27,8 @@ def query_gpt(k, v):
     'Energy intake',
     'Basal metabolic rate (UKB data field 23105)',
     'Resting metabolic rate',
-    'Dietary macronutrient intake.'"""},
+    'Dietary macronutrient intake.' Dont't include any other information like
+    'match1: ...', just return the relevant items."""},
         ]
     )
     return response.choices[0].message.content
@@ -57,14 +38,14 @@ result = {}
 for count, (k, v)in enumerate(temp_dict.items()):
     matches = query_gpt(k, v)
     print(matches)
-    result[k] = matches.split(", ")
-    if count == 25:
-        break 
+    result[k] = matches
+    # if count == 15:
+    #     break 
 print(result)
 # %%
 # Convert results to a DataFrame
 results_df = pd.DataFrame.from_dict(result, orient='index')
-results_df.to_csv("../results/gpt_test_matches.csv")
+results_df.to_csv("../results/gpt_matches.csv")
 
 print("Process completed. Top 5 matches for each row have been stored.")
 # # %%
